@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminAdvert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminAdvertEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminReservations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmForgot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHostAdvert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHostAdvertAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHostAdvertUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHostPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHostReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHostReviews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPopulerHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReservations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
